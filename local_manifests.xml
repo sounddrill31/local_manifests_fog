@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+    <!-- Remotes -->
+    <remote name="This-place-is-simpler-than-you-think" fetch="https://github.com/This-place-is-simpler-than-you-think" clone-depth="1" />
+    <!-- Repos -->
+    <project path="device/xiaomi/fog" name="android_device_xiaomi_fog" remote="This-place-is-simpler-than-you-think" revision="SparkOS-13" />
+</manifest>
